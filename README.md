@@ -1,4 +1,4 @@
-# Olá meu nome é Luiz Fernando Dionizio Pedrozo. Estou cursando Engenharia de Computação🎓
+# Olá meu nome é Luiz Fernando. Estou cursando Engenharia de Computação🎓
 - 🔭 À procura de um estágio
 - 🌱 Estudando Html/Css and JavaScript
 
