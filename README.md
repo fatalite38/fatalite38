@@ -1,6 +1,7 @@
-# Olá meu nome é Luiz Fernando. Estou cursando Engenharia de Computação🎓
-- 🔭 À procura de um estágio
-- 🌱 Estudando Html/Css and JavaScript
+# Hi, my name is Luiz Fernando. 
+- I'm studying computer engineering at galileu college.
+- I'm looking for an internship.
+- I'm studying Html/Css and JavaScript.
 
 <div>
   <a href="https://github.com/fatalite38">
