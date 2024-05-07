@@ -1,7 +1,7 @@
 # Hi, my name is Luiz Fernando. 
-- I'm studying computer engineering at galileu college.
-- I'm looking for an internship.
-- I'm studying JavaScript
+- Graduated in Computer engineering.
+- I'm looking for a developer position
+- I'm studying JavaScript and Python
 
 <div>
   <a href="https://github.com/fatalite38">
