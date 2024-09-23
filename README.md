@@ -1,7 +1,7 @@
 # Hi, my name is Luiz Fernando. 
 - Graduated in Computer engineering.
 - I'm looking for a developer position
-- I'm studying JavaScript and Python
+- I'm studying JavaScript, TypeScript, and sometimes Python.
 
 <div>
   <a href="https://github.com/fatalite38">
