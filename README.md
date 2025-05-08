@@ -1,5 +1,5 @@
 # Hi, my name is Luiz Fernando. 
-- Graduated in Computer engineering.
+- Graduated in Computer Engineering.
 - I'm looking for a developer position
 - I'm studying JavaScript, TypeScript, and sometimes Python.
 
